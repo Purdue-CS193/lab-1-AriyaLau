@@ -1,6 +1,10 @@
-## Welcome to GitHub Pages
+# Ariya Lau's First cs193 Lab
+## List of Favorite things about cs193
+-Motivates me to learn how to use important tools
+-It is only a 1 credit class
+-It should not be a hard course
 
-testing 123
+## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
